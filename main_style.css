@@ -24,3 +24,6 @@ body {
     background-image: url(files/main_background.png);
     backdrop-filter: blur(5px);
 }
+header {
+    background-color: darkgreen;
+}
