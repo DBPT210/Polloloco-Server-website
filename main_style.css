@@ -1,0 +1,26 @@
+@font-face {
+    font-family: MinecraftTen;
+    src: url(fonts/MinecraftTen.ttf);
+}
+@font-face {
+    font-family: MinecraftFive-Regular;
+    src: url(fonts/MinecraftFive-Regular.ttf);
+}
+@font-face {
+    font-family: MinecraftFive-Bold;
+    src: url(fonts/MinecraftFive-Bold.ttf);
+}
+@font-face {
+    font-family: MinecraftSeven;
+    src: url(fonts/MinecraftSeven.ttf);
+}
+p {
+    font-family: MinecraftSeven;
+}
+h1 {
+    font-family: MinecraftTen;
+}
+body {
+    background-image: url(files/main_background.png);
+    backdrop-filter: blur(5px);
+}
