@@ -20,6 +20,7 @@ p {
 }
 h1 {
     font-family: MinecraftTen;
+    font-size: 55px;
 }
 body {
     background-image: url(files/main_background.png);
@@ -28,4 +29,8 @@ body {
 }
 ol {
     font-family: MinecraftFive-Regular;
+}
+h2 {
+    color: yellow;
+    font-family: MinecraftSeven;
 }
