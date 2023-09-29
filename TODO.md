@@ -6,4 +6,5 @@
 [ ] Better tutorial video
 [✓] Link for the discord
 [✓] News / Changelog subpage
+[!] Top and bottom buttons on the news page
 ```
