@@ -5,5 +5,5 @@
 [ ] Media page maybe?
 [ ] Better tutorial video
 [✓] Link for the discord
-[!] News / Changelog subpage
+[✓] News / Changelog subpage
 ```
