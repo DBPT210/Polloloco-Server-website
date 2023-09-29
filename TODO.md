@@ -4,6 +4,6 @@
 [✓] Better download page
 [ ] Media page maybe?
 [ ] Better tutorial video
-[ ] Link for the discord
-[ ] News / Changelog subpage
+[✓] Link for the discord
+[!] News / Changelog subpage
 ```
